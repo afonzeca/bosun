@@ -1,4 +1,4 @@
 
 #
-# The Bosun project has a new name and repository - Click [Arun](http://github.com/afonzeca/arun) 
+# The Bosun project has a new name and repository - Click [Here](http://github.com/afonzeca/arun) 
 #
